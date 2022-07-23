@@ -1,5 +1,5 @@
 
-# 📱 Website Of Cycle.
+#  Website Of Cycle.
 
 ## Website Of Cycle
 
