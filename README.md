@@ -3,7 +3,7 @@
 
 ## Website Of Cycle
 
-- Cycle Website Made with simple Html, Css and Javascript 🛠
+- Cycle Website Made with simple Html and Css 🛠
 - Single page website
 - Used icons from - [ICONSCOUT]("https://iconscout.com/")
 
