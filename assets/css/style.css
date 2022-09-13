@@ -19,7 +19,7 @@ body {
 .icon {
   height: 80px;
   width: 80px;
-  background: url("./images/icon1.png");
+  background: url("../images/icon1.png");
   background-size: cover;
   background-color:#86c232;
   padding-left: 5px;
@@ -107,7 +107,7 @@ html{
     background-color: #61892f;
 }
 .sec_image{
-    background: url("./images/image3.png");
+    background: url("../images/image3.png");
     background-color: #222629;
     background-position:right ;
     background-size: 36rem;
@@ -217,7 +217,7 @@ html{
   grid-template-columns: 50% 50%;
 }
 .contact_image{
-  background: url("./images/image2.png");
+  background: url("../images/image2.png");
   background-size: 700px;
   background-repeat: no-repeat;
   
