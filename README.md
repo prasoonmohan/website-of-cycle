@@ -9,6 +9,6 @@
 
 ## Screenshots
 
-![Website Screenshot](./screenshots/Screenshot%20(17).png)
+![Website Screenshot](./images/Preview/Preview.png)
 
 
