@@ -64,13 +64,13 @@ html{
     margin-top: 149px;
     display: grid;
     height: 31.8rem;
-    width: 205.4vh;
+    width: 100%;
     grid-template-columns: 60% 40%;
 }
 .sec_description{
     background-color: #222629;
     padding-left: 60px;
-    padding-top: 80px;
+    padding-top: 45px;
  }
  .sec_description > h1{
     color: #86c232;
@@ -118,6 +118,7 @@ html{
 /* explore section  */
 #explore{
     height: 33%;
+    width: 100%;
     margin-top:100px;
     scroll-margin-top: 5.5rem;
     
@@ -198,6 +199,7 @@ html{
 /* contact us  */
 #contact{
   height: 38%;
+  width: 100%;
 }
 .form_heading{
   padding-left: 550px;
@@ -270,6 +272,7 @@ textarea:focus{
 /* footer section */
 footer{
   height: 21%;
+  width: 100%;
   background-color: black;
 }
 .footer_top{
