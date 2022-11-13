@@ -7,7 +7,7 @@
 - Single page website
 - Used icons from - [ICONSCOUT]("https://iconscout.com/")
 
-## Screenshots
+## Screenshots...
 
 ![Website Screenshot](./assets/Preview/preview.png)
 
